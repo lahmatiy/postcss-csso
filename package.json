@@ -36,8 +36,8 @@
     "travis": "npm run test"
   },
   "dependencies": {
-    "csso": "^1.7.0",
-    "postcss": "^5.0.0"
+    "csso": "^1.8.0",
+    "postcss": "^5.0.19"
   },
   "devDependencies": {
     "es6-promise-polyfill": "^1.2.0",
